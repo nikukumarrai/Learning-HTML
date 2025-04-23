@@ -1,0 +1,20 @@
+body{
+    background-color: yellow;
+}
+.heading1{
+    background-color: brown;
+}
+.heading2{
+
+    color: olive;
+    font-size: 80px;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: black;
+    text-decoration-style: wavy;
+    word-spacing: 40px;
+    letter-spacing: 50px;
+    text-shadow: -13px -14px 5px blue;
+
+    
+}
