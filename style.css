@@ -13,8 +13,14 @@ body{
     text-decoration-color: black;
     text-decoration-style: wavy;
     word-spacing: 40px;
-    letter-spacing: 50px;
+    letter-spacing: 20px;
     text-shadow: -13px -14px 5px blue;
+    text-align: right;
 
-    
+}
+.para{
+    font-weight: bold;
+}
+.heding4{
+    font-family: verdana;
 }

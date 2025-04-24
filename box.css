@@ -1,0 +1,18 @@
+.container{
+    background-color: tomato;
+    color: blue;
+  /*  padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px; */
+
+    padding: 2opx;
+    border-radius: 40px;
+}
+.container1{
+    background-color: orange;
+    color: white;
+    padding: 20px;
+    margin-top: 20px;
+    border: 13px dotted black;
+    
+}
