@@ -1,0 +1,11 @@
+.parent{
+    display: flex;
+   /* justify-content: center;*/
+   justify-content: space-evenly;
+}
+.main{
+    background-color: brown;
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+}

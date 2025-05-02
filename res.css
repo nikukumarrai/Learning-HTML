@@ -1,0 +1,20 @@
+.parent{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: darkslategray;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+.main{
+    
+    color: white;
+    
+    
+}
+.main1{
+    margin-top: 20px;
+}
+.parent .main button{
+    background-color: crimson;
+}

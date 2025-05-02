@@ -1,0 +1,20 @@
+.head{
+    font-family: "Coral Pixels", serif;
+}
+.head1{
+    font-family: "Cal Sans", sans-serif;
+}
+.wrapper{
+    background-color: yellow;
+    height: 400px;
+
+}
+.ch1{
+    background-color: brown;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 20px;
+
+
+}

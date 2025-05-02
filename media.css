@@ -1,0 +1,61 @@
+/* body{
+    background-color: brown;          (This is used for laptop view this shows only on laptop view not in phone )
+}
+*/               
+
+
+/* @media screen and (max-width: 500px) { 
+    body{
+        background-color: aqua;
+    }
+    
+} */
+ 
+/* @media screen and (min-width: 600px) {
+    body{
+        background-color: orangered;
+    }
+} */
+
+/* 
+@media screen and (min-width: 400px) and (max-width: 700px) {
+    body{
+        background-color: yellow;
+    }
+    h1{
+        font-size: 30px;
+        color: blue;
+    }
+    img{
+        display: none;
+    } 
+    
+} 
+    */
+    .btn{
+        padding: 40px;
+    }
+
+    @media screen and (max-width: 500px) {
+
+        body{
+            background-color: chocolate;
+
+        }
+        h1{
+            font-size: 30px;
+            color: blue;
+        }
+        img{
+            display: none;
+        }
+
+        
+    }
+h1{
+    font-size: 60px;
+    color: brown;
+}
+.btn{
+    padding: 0;
+}

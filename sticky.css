@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+
+}
+
+.navbar{
+    background-color: rgb(156, 226, 43);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border: 2px solid black;
+    /*position: sticky;  */
+
+    position: fixed;
+
+    top: 0;
+}
+.navbar ul {
+    display: flex;
+    gap: 40px;
+    list-style: none;
+  
+}
+.navbar ul li{
+    color: white;
+    background-color: orangered;
+    padding: 8px;
+    border-radius: 5px;
+}

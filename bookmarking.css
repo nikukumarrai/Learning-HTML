@@ -1,0 +1,11 @@
+html{
+    scroll-behavior: smooth;
+
+}
+
+.head{
+    background-color: brown;
+    color: white;
+    padding: 20px;
+    
+}
